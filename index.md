@@ -1,5 +1,5 @@
-# Home
-## Kate Prior
+# Portfolio
+## Reflection
 
 Text goes here. And some more text. 
 
