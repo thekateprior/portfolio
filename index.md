@@ -5,9 +5,9 @@ Text goes here. And some more text.
 
 ## Critical Making
 
-- [Comic](link)
+- [Comic]()
 - [Grammar](grammar.html)
 - [Analysis]()
 - [Visualization]()
 - [Narrative](narrative.html)
-- [Remix (forthcoming)]
+- Remix (<i>forthcoming</i>)
