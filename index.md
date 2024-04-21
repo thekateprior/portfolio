@@ -6,8 +6,8 @@ Text goes here. And some more text.
 ## Critical Making
 
 - [Comic](link)
-- [Grammar](link)
+- [Grammar](grammar.html)
 - [Analysis]()
 - [Visualization]()
-- [Narrative]()
-- [Remix]()
+- [Narrative](narrative.html)
+- [Remix (forthcoming)]
